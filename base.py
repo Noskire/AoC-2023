@@ -1,4 +1,5 @@
 import re # Para re-buscar o mesmo texto
+from math import lcm
 
 def part1():
     print("Part 1")
